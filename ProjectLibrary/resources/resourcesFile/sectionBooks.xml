@@ -1,0 +1,102 @@
+<sections>
+    <Section>
+        <sectionName>Fantasia</sectionName>
+        <books>
+            <Book>
+                <name>Narnia</name>
+                <author>C.S. Lewis</author>
+                <price>60000</price>
+            </Book>
+            <Book>
+                <name>La reina roja</name>
+                <author>Victoria Aveyard</author>
+                <price>30000</price>
+            </Book>
+            <Book>
+                <name>Cazadores de sombras</name>
+                <author>Cassandra Clare</author>
+                <price>68000</price>
+            </Book>
+            <Book>
+                <name>Alicia en el pais de las maravillas</name>
+                <author>Lewis Carroll</author>
+                <price>50100</price>
+            </Book>
+        </books>
+    </Section>
+    <Section>
+        <sectionName>Terror</sectionName>
+        <books>
+            <Book>
+                <name>La chica gris</name>
+                <author>Antonio Runa</author>
+                <price>55000</price>
+            </Book>
+            <Book>
+                <name>El bazar de los malos sueños</name>
+                <author>Stephen King</author>
+                <price>65000</price>
+            </Book>
+            <Book>
+                <name>El gato negro</name>
+                <author>Edgar Allan Poe</author>
+                <price>18900</price>
+            </Book>
+            <Book>
+                <name>Lady Masacre</name>
+                <author>Mario Mendoza</author>
+                <price>32000</price>
+            </Book>
+        </books>
+    </Section>
+    <Section>
+        <sectionName>Arte</sectionName>
+        <books>
+            <Book>
+                <name>Monet</name>
+                <author>Daniel Wildenstein</author>
+                <price>39000</price>
+            </Book>
+            <Book>
+                <name>Muerte Barroca</name>
+                <author>Banco Rep</author>
+                <price>25000</price>
+            </Book>
+            <Book>
+                <name>El paraiso a pinceladas</name>
+                <author>Eduardo Barba Gomez</author>
+                <price>67000</price>
+            </Book>
+            <Book>
+                <name>Historia de la fealdad</name>
+                <author>Umberto Eco</author>
+                <price>120000</price>
+            </Book>
+        </books>
+    </Section>
+    <Section>
+        <sectionName>Romance</sectionName>
+        <books>
+            <Book>
+                <name>Orgullo y prejuicio</name>
+                <author>Jane Austen</author>
+                <price>150000</price>
+            </Book>
+            <Book>
+                <name>Heartstopper</name>
+                <author>Alice Oseman</author>
+                <price>20500</price>
+            </Book>
+            <Book>
+                <name>Este invierno</name>
+                <author>Alice Oseman</author>
+                <price>17900</price>
+            </Book>
+            <Book>
+                <name>Dash y Lily</name>
+                <author>David Levithan</author>
+                <price>45000</price>
+            </Book>
+        </books>
+    </Section>
+</sections>
